@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ScreenSound_v3/1.0.0": {
+        "runtime": {
+          "ScreenSound_v3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ScreenSound_v3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

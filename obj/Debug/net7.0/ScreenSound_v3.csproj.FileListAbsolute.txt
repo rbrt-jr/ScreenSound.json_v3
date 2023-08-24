@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\ScreenSound_v3\bin\Debug\net7.0\ScreenSound_v3.exe
+C:\Users\rober\source\repos\ScreenSound_v3\bin\Debug\net7.0\ScreenSound_v3.deps.json
+C:\Users\rober\source\repos\ScreenSound_v3\bin\Debug\net7.0\ScreenSound_v3.runtimeconfig.json
+C:\Users\rober\source\repos\ScreenSound_v3\bin\Debug\net7.0\ScreenSound_v3.dll
+C:\Users\rober\source\repos\ScreenSound_v3\bin\Debug\net7.0\ScreenSound_v3.pdb
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.AssemblyInfo.cs
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.dll
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\refint\ScreenSound_v3.dll
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.pdb
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ScreenSound_v3.genruntimeconfig.cache
+C:\Users\rober\source\repos\ScreenSound_v3\obj\Debug\net7.0\ref\ScreenSound_v3.dll
