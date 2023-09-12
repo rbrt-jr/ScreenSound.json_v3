@@ -43,4 +43,21 @@ internal class LinqFilter
             Console.WriteLine($"- {music}");
         }
     }
+
+    public static void FilterByKey(List<Music> musics, string key)
+    {
+        if(key == "")
+        {
+            Console.WriteLine("Dados não inseridos corretamente ou ausencia deles.");
+        } else 
+        {
+            var musicFilterByKey = musics.Where(m => m.Tones.Equals(key)!).Select(m => m.NomeDaMusica).ToList();
+            Console.WriteLine($"Artistas com a tonalidade {key}");
+            foreach (var music in musicFilterByKey)
+            {
+                Console.WriteLine($"-> {music}");
+            }
+        }
+    }
+        
 }
